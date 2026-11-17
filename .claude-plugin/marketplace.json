@@ -1,0 +1,11 @@
+{
+  "name": "anthonytd-skills",
+  "owner": { "name": "Anthony Thong Do" },
+  "plugins": [
+    {
+      "name": "anthonytd-skills",
+      "source": "./",
+      "description": "Anthony Thong Do's agent skills: writing style and more."
+    }
+  ]
+}
