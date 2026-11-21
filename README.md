@@ -7,6 +7,7 @@ Agent skills I use daily. Install all of them or pick one.
 | Skill | What it does |
 |-------|--------------|
 | [writing-style](skills/writing-style/SKILL.md) | Write, rewrite, or review prose: conclusion first, short sentences, why → what → how → details. |
+| [herdr-agent-team](skills/herdr-agent-team/SKILL.md) | Orchestrate builder + reviewer agents in Herdr panes, milestone by milestone. Streamline or multi-worktree. |
 
 ## Install
 
