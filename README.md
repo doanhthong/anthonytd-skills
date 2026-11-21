@@ -8,6 +8,7 @@ Agent skills I use daily. Install all of them or pick one.
 |-------|--------------|
 | [writing-style](skills/writing-style/SKILL.md) | Write, rewrite, or review prose: conclusion first, short sentences, why → what → how → details. |
 | [herdr-agent-team](skills/herdr-agent-team/SKILL.md) | Orchestrate builder + reviewer agents in Herdr panes, milestone by milestone. Streamline or multi-worktree. |
+| [serve-markdown](skills/serve-markdown/SKILL.md) | Serve a markdown file or folder to your Tailscale devices. Rendered, live reload. |
 
 ## Install
 
