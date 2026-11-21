@@ -1,6 +1,6 @@
 ---
 name: herdr-agent-team
-description: Orchestrate a team of agents in Herdr panes to build a complex project from a spec (PRD, plan, milestone list) — builder per milestone, independent reviewer, fix loop, commit, next milestone. Two variants: streamline (one worktree, milestones in sequence) and multi-worktree (independent tracks in parallel, merged after review). Use when the user says "agent team", "orchestrate agents to build this", "spawn builder and reviewer", "build the milestones", or invokes /herdr-agent-team.
+description: "Orchestrate a team of agents in Herdr panes to build a complex project from a spec (PRD, plan, milestone list) — builder per milestone, independent reviewer, fix loop, commit, next milestone. Two variants: streamline (one worktree, milestones in sequence) and multi-worktree (independent tracks in parallel, merged after review). Use when the user says \"agent team\", \"orchestrate agents to build this\", \"spawn builder and reviewer\", \"build the milestones\", or invokes /herdr-agent-team."
 ---
 
 # Agent Team

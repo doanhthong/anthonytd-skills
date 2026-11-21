@@ -1,6 +1,6 @@
 ---
-name: writing-style
-description: Write, rewrite, or review prose in a concise, scannable, top-down style — conclusion first, short sentences, strict abstraction ladder (why → what → how → details), concrete examples, one term per concept. Use whenever writing or rewriting docs, specs, PRDs, READMEs, emails, Slack messages, summaries, reports, or any prose meant for people to read. Also use to review writing — "review this doc", "give feedback on my writing", "is this clear?" — and when the user asks to "make this concise", "tighten this", "apply my writing style", or invokes /writing-style.
+name: doc-writing-style
+description: Write, rewrite, or review prose in a concise, scannable, top-down style — conclusion first, short sentences, strict abstraction ladder (why → what → how → details), concrete examples, one term per concept. Use whenever writing or rewriting docs, specs, PRDs, READMEs, emails, Slack messages, summaries, reports, or any prose meant for people to read. Also use to review writing — "review this doc", "give feedback on my writing", "is this clear?" — and when the user asks to "make this concise", "tighten this", "apply my writing style", or invokes /doc-writing-style.
 ---
 
 # Writing Style

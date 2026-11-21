@@ -6,7 +6,7 @@ Agent skills I use daily. Install all of them or pick one.
 
 | Skill | What it does |
 |-------|--------------|
-| [writing-style](skills/writing-style/SKILL.md) | Write, rewrite, or review prose: conclusion first, short sentences, why → what → how → details. |
+| [doc-writing-style](skills/doc-writing-style/SKILL.md) | Write, rewrite, or review prose: conclusion first, short sentences, why → what → how → details. |
 | [herdr-agent-team](skills/herdr-agent-team/SKILL.md) | Orchestrate builder + reviewer agents in Herdr panes, milestone by milestone. Streamline or multi-worktree. |
 | [serve-markdown](skills/serve-markdown/SKILL.md) | Serve a markdown file or folder to your Tailscale devices. Rendered, live reload. |
 
@@ -15,8 +15,8 @@ Agent skills I use daily. Install all of them or pick one.
 **Any agent (Claude Code, Cursor, Codex, etc.)** via [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add doanhthong/anthonytd-skills                        # all skills
-npx skills add doanhthong/anthonytd-skills --skill writing-style  # one skill
+npx skills add doanhthong/anthonytd-skills                            # all skills
+npx skills add doanhthong/anthonytd-skills --skill doc-writing-style  # one skill
 ```
 
 **Claude Code plugin** (installs all skills):
@@ -30,7 +30,7 @@ npx skills add doanhthong/anthonytd-skills --skill writing-style  # one skill
 
 ```bash
 git clone https://github.com/doanhthong/anthonytd-skills.git
-ln -s "$PWD/anthonytd-skills/skills/writing-style" ~/.claude/skills/writing-style
+ln -s "$PWD/anthonytd-skills/skills/doc-writing-style" ~/.claude/skills/doc-writing-style
 ```
 
 ## Add a skill
